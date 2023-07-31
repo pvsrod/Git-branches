@@ -1,3 +1,5 @@
 Changes made from github
-if(x===y) then console.log("true")
-else false
+let x=2
+let y=2
+if(x==y) then console.log("correct") else ("incorrect")
+return "something"
